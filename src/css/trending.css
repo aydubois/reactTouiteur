@@ -1,0 +1,19 @@
+.trending{
+    border:1px solid white;
+    border-radius:5px;
+    padding: 4em;
+    height: min-content;
+
+    margin-left: 1rem;
+    padding-top: 2rem;
+    align-self: baseline;
+    margin-top: 1rem;
+    color: white;
+    background-color: #4a4e55;;
+}
+.trending button{
+    padding: .5em;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: bold;
+}

@@ -1,0 +1,16 @@
+.oneTouit{
+    width: 65vw;
+    display: flex;
+    flex-direction: column-reverse;
+    padding-right: 5em;
+    padding-left: 5em;
+    margin: 2rem;
+
+}
+.oneTouit .touit{
+    width: 500px;
+    align-self: flex-start;
+}
+.oneTouit .touit:nth-child(even){
+    align-self: flex-end;
+}

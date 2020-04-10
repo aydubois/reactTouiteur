@@ -1,0 +1,12 @@
+header div{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header img{
+    max-width: 100px;
+}
+header h1{
+    flex:1;
+}

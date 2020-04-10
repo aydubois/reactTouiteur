@@ -1,0 +1,22 @@
+.touit{
+    padding:.5em;
+    border: 1px #797878 solid;
+    background-color: #4a4e55;
+    border-radius: 5px;
+}
+
+.touit .writeComment textarea, .touit .writeComment input{
+    background-color: rgba(1, 128, 255, 0.08);
+    color: rgb(245, 245, 245, .6);
+    padding: .5em;
+    border-radius: 5px;
+    border: 1px solid #312b5a;
+}
+.touit .writeComment button {
+    background-color: #909acb;
+    padding: .2em;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: .4rem;
+}
